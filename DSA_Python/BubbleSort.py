@@ -11,4 +11,4 @@ def bubblesort(A):
 A = [3, 5, 8, 9, 6, 2]
 print('Original Array:',A)
 bubblesort(A)
-print('Sorted Array:',A)
+print('Sorted Array for bubble sort:',A)
