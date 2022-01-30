@@ -12,6 +12,6 @@ def binaryseaarch_recursive(A, key, l, r):
 
 A = [15, 21, 47, 84, 96]
 found = binaryseaarch_recursive(A,17,0,4)
-print('Result:', found)
+print('Result to find binarysearch:', found)
 
 
